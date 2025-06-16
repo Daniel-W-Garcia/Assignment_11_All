@@ -8,6 +8,7 @@ public class BooksContext : DbContext
 
     public BooksContext(DbContextOptions<BooksContext> options) : base(options)
     {
+        Database.EnsureDeleted();
         Database.EnsureCreated();
     }
 
@@ -22,10 +23,10 @@ public class BooksContext : DbContext
     {
         return new Books[]
         {
-            new Books { ISBN = 1234567890, Title = "The Hobbit", Author = "J.R.R. Tolkien", Description = "An autobiography" },
-            new Books { ISBN = 9876543210, Title = "The Lord of the Rings", Author = "J.R.R. Tolkien", Description = "A biography" },
-            new Books { ISBN = 1234567891, Title = "The Hitchhiker's Guide to the Galaxy", Author = "Douglas Adams", Description = "A fantasy novel" },
-            new Books { ISBN = 1234567892, Title = "The Hunger Games", Author = "Suzanne Collins", Description = "Am action novel" }
+            new Books { ISBN = 1234567890, Title = "The Hobbit", Author = "J.R.R. Tolkien", Description = "An autobiography", Quantity = 1},
+            new Books { ISBN = 9876543210, Title = "The Lord of the Rings", Author = "J.R.R. Tolkien", Description = "A biography", Quantity = 1 },
+            new Books { ISBN = 1234567891, Title = "The Hitchhiker's Guide to the Galaxy", Author = "Douglas Adams", Description = "A fantasy novel", Quantity = 1 },
+            new Books { ISBN = 1234567892, Title = "The Hunger Games", Author = "Suzanne Collins", Description = "Am action novel", Quantity = 1 }
         };
     }
 }

@@ -104,6 +104,12 @@ var simplestToRead = SimplestToRead(arr);
 var hardToRead = HardToRead(arr);
 var thisIsntEvenEnglish = ThisIsntEvenEnglish(arr);
 
+Console.WriteLine($"""
+                   
+                   The orignal array was: {string.Join(", ", arr)}
+                   
+                   """);
 Console.WriteLine(string.Join(", ", simplestToRead));
 Console.WriteLine(string.Join(", ", hardToRead));
 Console.WriteLine(string.Join(", ", thisIsntEvenEnglish));
+Console.WriteLine();

@@ -1,0 +1,15 @@
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\bin\Debug\net9.0\Assignment_11.3.2.exe
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\bin\Debug\net9.0\Assignment_11.3.2.deps.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\bin\Debug\net9.0\Assignment_11.3.2.runtimeconfig.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\bin\Debug\net9.0\Assignment_11.3.2.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\bin\Debug\net9.0\Assignment_11.3.2.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\Assignment_11.3.2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\Assignment_11.3.2.AssemblyInfoInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\Assignment_11.3.2.AssemblyInfo.cs
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\Assignment_11.3.2.csproj.CoreCompileInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\Assignment_11.3.2.sourcelink.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\Assignment_11.3.2.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\refint\Assignment_11.3.2.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\Assignment_11.3.2.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\Assignment_11.3.2.genruntimeconfig.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_11_All\Assignment_11.3\Assignment_11.3.2\obj\Debug\net9.0\ref\Assignment_11.3.2.dll
